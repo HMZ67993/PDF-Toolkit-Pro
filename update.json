@@ -2,4 +2,12 @@
   "version": "1.0.0",
   "url": "https://hmzbytes.gumroad.com/l/PDF-Toolkit-pro",
   "notes": "الإصدار الأول للبرنامج."
+    "manual_payment": {
+    "price_egp": 400,
+    "bank_name": "CIB",
+    "bank_account": "100040309367",
+    "instapay": "01150362890",
+    "wallet": "01557783633",
+    "support_whatsapp": "201150362890"
+  }
 }
